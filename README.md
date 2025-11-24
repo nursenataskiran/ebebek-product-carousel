@@ -36,7 +36,7 @@ Left/right arrows shift the carousel using CSS transforms.
    ```bash
    cd ebebek-product-carousel
 ```
-**3. Open the project files in your editor.**
+**3. Open the project files in your editor.** <br>
 **4.** Since this project does not include an HTML file and was built as a DOM manipulation practice,
 you can run the code manually using a browser console:
 * Open any blank browser tab
